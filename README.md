@@ -32,14 +32,15 @@ De todos modos, decidimos hacer una reunión de Daily Scrum algún día marcado 
 ### Identificación y análisis de competidores
 #### Moovit:
 <p>Vemos que la app de moovit brinda muchas de las funcionalidades que nuestra aplicación quiere brindar. Sin embargo, hay algunas diferencias entre ambas aplicaciones, por lo que consideramos importante resaltar aquellas funcionalidades que sean nuevas en nuestra aplicación para que se destauqe. Por otro lado, la aplicación de moovit también tiene diversas funcionalidades que son útiles, y decidimos que estaría bueno implementarlas y aprovecharnos de aquellas que nos parezcan mejor. Las funcionalidades que decidimos implementar en nuestra app:</p>
+&nbsp;1: Guardado de destinos para obtener direcciones rápidas (Ej: casa, trabajo, facultad)
 <br>
-&nbsp;1:\ Guardado de destinos para obtener direcciones rápidas (Ej: casa, trabajo, facultad)
-&nbsp;2:\ Si se elige un destino al que ninguna linea cercana llegue, se proporciona una combinación de lineas de transporte diferentes
+&nbsp;2: Si se elige un destino al que ninguna linea cercana llegue, se proporciona una combinación de lineas de transporte diferentes
 </br>
 
 
 
-City mapper
-Google maps
+#### City mapper
+
+#### Google maps
 
 ## Definición del problema / solución
