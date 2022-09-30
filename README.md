@@ -19,6 +19,8 @@ En nuestro contexto por ser estudiantes y no estar trabajando, se nos complican 
 
 De todos modos, decidimos hacer una reunión de Daily Scrum algún día marcado por el equipo. No solo para ver el progreso del equipo, sino también para simular como sería el evento en vida real.
 
+El resto de ceremonias de Scrum se van a realizar como es apropiado dentro del marco de Scrum en general (Sprint Planning Meeting, Sprint Review Meeting, Sprint Retrospective Meeting).
+
 ## Objetivos del Primer Sprint
 →Identificación del problema a resolver\
 →Definición del problema y solución.
@@ -31,7 +33,7 @@ De todos modos, decidimos hacer una reunión de Daily Scrum algún día marcado 
 &nbsp;&nbsp;(Estas van a ir para el PO y el board. Lo mejor sería armas épicas y separarlas en más chicas.)
 ### Identificación y análisis de competidores
 #### Moovit:
-<p>Vemos que la app de moovit brinda muchas de las funcionalidades que nuestra aplicación quiere brindar. Sin embargo, hay algunas diferencias entre ambas aplicaciones, por lo que consideramos importante resaltar aquellas funcionalidades que sean nuevas en nuestra aplicación para que se destauqe. Por otro lado, la aplicación de moovit también tiene diversas funcionalidades que son útiles, y decidimos que estaría bueno implementarlas y aprovecharnos de aquellas que nos parezcan mejor. Las funcionalidades que decidimos implementar en nuestra app:</p>
+<p>Vemos que la app de moovit brinda muchas de las funcionalidades que nuestra aplicación quiere brindar. Sin embargo, hay algunas diferencias claves entre ambas aplicaciones, por lo que consideramos importante resaltar aquellas funcionalidades que sean nuevas en nuestra aplicación para que se destaque. Por otro lado, la aplicación de moovit también tiene diversas funcionalidades que son útiles, y decidimos que estaría bueno implementarlas y aprovecharnos de las que nos parezcan mejor. Las funcionalidades que decidimos implementar en nuestra app:</p>
 &nbsp;1: Guardado de destinos para obtener direcciones rápidas (Ej: casa, trabajo, facultad)
 <br>
 &nbsp;2: Si se elige un destino al que ninguna linea cercana llegue, se proporciona una combinación de lineas de transporte diferentes
