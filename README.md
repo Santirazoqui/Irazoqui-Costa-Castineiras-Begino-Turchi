@@ -61,16 +61,16 @@ Lista de interesados:
 <br>
 <br>
 
-| Busqueda de lineas  | Destinos favoritos | Linea Favorita |
-| ------------- | ------------- | ------------ |
-| <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-Busqueda%20de%20lineas.jpg" width="250" height=auto />  | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-destinos%20favoritos%20y%20uber.jpg" width="250" height=auto />  | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-linea%20favorita.jpg" width="250" height=auto /> |
+| Busqueda de lineas                                                                                                                                                        | Destinos favoritos                                                                                                                                                                 | Linea Favorita                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-Busqueda%20de%20lineas.jpg" width="250" height=auto /> | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-destinos%20favoritos%20y%20uber.jpg" width="250" height=auto /> | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-linea%20favorita.jpg" width="250" height=auto /> |
 
-| Mapa de paradas cercanas | Paradas de la linea y proxima llegada | Mapa de ruta completa |
-| -------- | -------- | -------- |
-| <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-paradas%20cercanas.jpg" width="250" height=auto /> | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-paradas%20y%20proxima%20llegada.jpg" width="250" height=auto />| <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-ruta%20completa.jpg" width="250" height=auto /> |
-
+| Mapa de paradas cercanas                                                                                                                                              | Paradas de la linea y proxima llegada                                                                                                                                              | Mapa de ruta completa                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-paradas%20cercanas.jpg" width="250" height=auto /> | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-paradas%20y%20proxima%20llegada.jpg" width="250" height=auto /> | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-ruta%20completa.jpg" width="250" height=auto /> |
 
 #### Google maps
+
 <p>Google maps, al ser una aplicación que no esta centrada en el tranposrte público únicamente, tiene algunas funcionalidades que nos parece interesante implementar en nuestra aplicación:</p>
 &nbsp;1: Google maps tiene la funcionalidad "Google street view", que permite ver una localización en modo 3D mediante fotos que toma el carro de google al pasar por un lugar. De forma similar, cuando se busca un lugar, google también muestra la foto más reciente de dicho lugar. Simulando estas funcionalidades, se nos ocurre aplicarlas para que el usuario pueda chequear con fotos, o girar la camara en modo 3D y mirar los alrededores, los lugares de llegada, las paradas, etc.
 <br>
@@ -93,8 +93,10 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
 - Epica: Gestion de Usuarios
 
   - Feature: Sesion
-  - US1: Log in
-  - US2: Log out
+
+    - US1: Log in
+    - US2: Log out
+
   - Feature: CRUD Usuarios
     - US: Registrar usuario
     - US: Editar usuario
@@ -102,33 +104,36 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
     - US: Restaurar contraseña
     - US:
 
-- Feature: Busqueda de linea con filtros
+- Epica: Busqueda y listado
 
-  - US: Buscar linea utilizando filtros.
+  - Feature: Busqueda de linea con filtros
 
-- Feature: Listado de lineas cercanas con informacion relevante.
+    - US: Buscar linea utilizando filtros.
 
-  - US: Ver información de destino/origen
-  - US: Ver información de cantidad de pasajeros
+  - Feature: Listado de lineas cercanas con informacion relevante.
 
-- Feature: Historial de busqueda y de viajes
+    - US: Ver información de destino/origen
+    - US: Ver información de cantidad de pasajeros
 
-  - US: Ver historial de busqueda
-  - US: Guardar un destino para obtener direcciones rápidas
- 
-- Feature: Modo viaje
+  - Feature: Historial de busqueda y de viajes
 
-  - US: Hacer seguimiento de trayecto de la linea
-  - US: Ver siguientes paradas hasta el destino
-  - US: Ver informacón extra ==> puede ser hora de llegada a parada, hora de llegada a destino, etc.
-  - US: Ver fotos o street view de parada de origen y destino
-  - US: Ver estado de congestión de la ruta
-  - US: Ver combinaciones de lineas posibles para llegar a destino
+    - US: Ver historial de busqueda
+    - US: Guardar un destino para obtener direcciones rápidas
 
-- Feature: Compartir viaje a otro usuario
+- Epica: Modo viaje y notificaciones.
 
-  - US: Compartir viaje a otro usuario (wpp, live location?)
+  - Feature: Modo viaje
 
+    - US: Hacer seguimiento de trayecto de la linea
+    - US: Ver siguientes paradas hasta el destino
+    - US: Ver informacón extra ==> puede ser hora de llegada a parada, hora de llegada a destino, etc.
+    - US: Ver fotos o street view de parada de origen y destino
+    - US: Ver estado de congestión de la ruta
+    - US: Ver combinaciones de lineas posibles para llegar a destino
+
+  - Feature: Compartir viaje a otro usuario
+
+    - US: Compartir viaje a otro usuario (wpp, live location?)
 
 - Epica: Sistema de notificaciones
   - US: Notificar omnibus por llegar a la parada
