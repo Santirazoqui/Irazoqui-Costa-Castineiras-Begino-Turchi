@@ -94,31 +94,33 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
 
 - Feature: Busqueda de linea con filtros
 
-  - US: Ver posibles filtros.
+  - US: Buscar linea utilizando filtros.
 
 - Feature: Listado de lineas cercanas con informacion relevante.
 
-  - US: Informacion de destino/origen
-  - US: Informacion de cantidad de pasajeros
+  - US: Ver información de destino/origen
+  - US: Ver información de cantidad de pasajeros
 
 - Feature: Historial de busqueda
 
+  - US: Ver historial de busqueda
+ 
 - Feature: Modo viaje
 
-  - US: Seguimiento de trayecto de la linea
-  - US: Siguientes paradas hasta el destino
-  - US: Info extra ==> puede ser hora de llegada a parada, hora de llegada a destino, etc.
+  - US: Hacer seguimiento de trayecto de la linea
+  - US: Ver siguientes paradas hasta el destino
+  - US: Ver informacón extra ==> puede ser hora de llegada a parada, hora de llegada a destino, etc.
 
 - Feature: Compartir viaje a otro usuario
 
-  - US: Distintos tipos de compartida (wpp, live location?)
+  - US: Compartir viaje a otro usuario (wpp, live location?)
 
 - Epica: Sistema de notificaciones
-  - US: Omnibus por llegar a la parada
-  - US: Proxima parada es tu destino
-  - US: Tiempo de llegada a parada habitual.
-  - US: linea seleccionada esta retrasada
-  - US: linea seleccionada esta desviada.
+  - US: Notificar omnibus por llegar a la parada
+  - US: Notificar que la proxima parada es tu destino
+  - US: Notificar el tiempo de llegada a parada habitual.
+  - US: Notificar si la linea seleccionada esta retrasada
+  - US: Notificar si la linea seleccionada esta desviada.
 
 ## Planilla con el tiempo de trabajo
 
