@@ -110,10 +110,17 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
   - US: Hacer seguimiento de trayecto de la linea
   - US: Ver siguientes paradas hasta el destino
   - US: Ver informacón extra ==> puede ser hora de llegada a parada, hora de llegada a destino, etc.
+  - US: Ver fotos o street view de parada de origen y destino
+  - US: Ver estado de congestión de la ruta
+  - US: Ver combinaciones de lineas posibles para llegar a destino
 
 - Feature: Compartir viaje a otro usuario
 
   - US: Compartir viaje a otro usuario (wpp, live location?)
+
+- Feature: Guardado de destinos para obtener direcciones rápidas
+
+  - US: Guardar un destino para obtener direcciones rápidas
 
 - Epica: Sistema de notificaciones
   - US: Notificar omnibus por llegar a la parada
