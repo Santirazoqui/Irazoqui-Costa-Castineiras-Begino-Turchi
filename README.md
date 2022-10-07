@@ -90,18 +90,81 @@ El objetivo de este proyecto es el desarrollo de una aplicacion movil para ayuda
 Para explayar las funcionalidades por usuario, hicimos uso de la tecnologia brindada por Azure Boards. Esta herramienta nos permite crear un proyecto bajo las caracteristicas de un marco agil como lo es Scrum o Kanban. Se realizo una lista de work items que fueron definidos por los distintos integrantes del equipo.
 Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User stories, dependiendo de la magnitud, tipo, y proposito de el objeto de trabajo del que se tratase.
 
-- Epica: Gestion de Usuarios
+## Épicas, features y user stories
 
-  - Feature: Sesion
+### Template para user stories:
 
-    - US1: Log in
-    - US2: Log out
+Las identificamos por la abreviación “US” seguida de un número identificador
+
+Siguen el siguiente template:
+
+	CÓMO <ROL>
+
+	QUIERO <ACCION>
+
+	PARA <MOTIVO DE NEGOCIO>
+
+
+# Épica 1: Gestión de Usuarios
+
+  - Feature: Sesión
+
+    ### U1:
+
+	COMO  usuario
+
+	QUIERO poder logearme al sistema
+
+	PARA identificarme y obtener información relevante a mis viajes.
+ 
+ 
+   ### U2:
+
+	COMO  usuario
+
+	QUIERO poder cerrar sesión
+
+	PARA poder acceder al sistema desde un dispositivo de manera temporal
+ 
 
   - Feature: CRUD Usuarios
-    - US: Registrar usuario
-    - US: Editar usuario
-    - US: Eliminar usuario
-    - US: Restaurar contraseña
+  
+    ### U3:
+
+	COMO  usuario
+
+	QUIERO poder registrarme en el sistema
+
+	PARA poder disfrutar de una experiencia personalizada
+   
+   
+   ### U4:
+
+	COMO  usuario
+
+	QUIERO poder editar los datos que asocie a mi usuario
+
+	PARA poder corregir o actualizar datos asociados a mi persona
+    
+    
+    ### U5:
+
+	COMO  usuario
+
+	QUIERO poder eliminar mi cuenta
+	
+	PARA no quedarme registrado en contra de mi voluntad
+ 
+    
+    ### U6:
+
+	COMO  usuario
+
+	QUIERO poder restaurar mi contraseña
+
+	PARA no perder la cuenta si se me olvida la contraseña
+ 
+ 
     - US:
 
 - Epica: Busqueda y listado
