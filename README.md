@@ -120,7 +120,7 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
     - US: Ver historial de busqueda
     - US: Guardar un destino para obtener direcciones rápidas
 
-- Epica: Modo viaje y notificaciones.
+- Epica: Modo viaje.
 
   - Feature: Modo viaje
 
