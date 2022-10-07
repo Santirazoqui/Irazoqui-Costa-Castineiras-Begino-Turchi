@@ -107,7 +107,7 @@ Siguen el siguiente template:
 
 # Épica 1: Gestión de Usuarios
 
-  - Feature: Sesión
+  ## Feature: Sesión
 
   ### U2:
 
@@ -126,7 +126,7 @@ Siguen el siguiente template:
 	PARA poder acceder al sistema desde un dispositivo de manera temporal
  
 
-  - Feature: CRUD Usuarios
+  ## Feature: CRUD Usuarios
   
    ### U2:
 
