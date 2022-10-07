@@ -111,9 +111,10 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
   - US: Ver información de destino/origen
   - US: Ver información de cantidad de pasajeros
 
-- Feature: Historial de busqueda
+- Feature: Historial de busqueda y de viajes
 
   - US: Ver historial de busqueda
+  - US: Guardar un destino para obtener direcciones rápidas
  
 - Feature: Modo viaje
 
@@ -128,9 +129,6 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
 
   - US: Compartir viaje a otro usuario (wpp, live location?)
 
-- Feature: Guardado de destinos para obtener direcciones rápidas
-
-  - US: Guardar un destino para obtener direcciones rápidas
 
 - Epica: Sistema de notificaciones
   - US: Notificar omnibus por llegar a la parada
