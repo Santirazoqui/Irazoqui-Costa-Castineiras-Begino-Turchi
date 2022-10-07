@@ -60,9 +60,12 @@ Lista de interesados:
 &nbsp;2: Si se elige un destino al que ninguna linea cercana llegue, se proporciona una combinación de lineas de transporte diferentes
 </br>
 
-#### City mapper
-
 #### Google maps
+<p>Google maps, al ser una aplicación que no esta centrada en el tranposrte público únicamente, tiene algunas funcionalidades que nos parece interesante implementar en nuestra aplicación:</p>
+&nbsp;1: Google maps tiene la funcionalidad "Google street view", que permite ver una localización en modo 3D mediante fotos que toma el carro de google al pasar por un lugar. De forma similar, cuando se busca un lugar, google también muestra la foto más reciente de dicho lugar. Simulando estas funcionalidades, se nos ocurre aplicarlas para que el usuario pueda chequear con fotos, o girar la camara en modo 3D y mirar los alrededores, los lugares de llegada, las paradas, etc.
+<br>
+&nbsp;2: Otra funcionalidad interesante que proporciona google es que cuando marcamos una ruta a seguir en automovil, se le avisa al usuario que porciones de esa ruta se encuentran congestionadas por tráfico (Si es que la hay). La ruta puede aparecer en amarillo/naranja (congestionada), y rojo(muy congestionada).
+</br>
 
 ## Uso de GitHub como control de versionado
 
