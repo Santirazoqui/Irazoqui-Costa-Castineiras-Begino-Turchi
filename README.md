@@ -109,7 +109,7 @@ Siguen el siguiente template:
 
   ## Feature: Sesión
 
-  ### U2:
+  ### US1:
 
 	COMO  usuario
 
@@ -117,7 +117,7 @@ Siguen el siguiente template:
 
 	PARA identificarme y obtener información relevante a mis viajes
  
-   ### U2:
+   ### US2:
 
 	COMO  usuario
 
@@ -128,7 +128,7 @@ Siguen el siguiente template:
 
   ## Feature: CRUD Usuarios
   
-   ### U2:
+   ### US3:
 
 	COMO  usuario
 
@@ -136,7 +136,7 @@ Siguen el siguiente template:
 
 	PARA poder disfrutar de una experiencia personalizada
    
-   ### U4:
+   ### US4:
 
 	COMO  usuario
 
@@ -144,7 +144,7 @@ Siguen el siguiente template:
 
 	PARA poder corregir o actualizar datos asociados a mi persona
     
-   ### U5:
+   ### US5:
 
 	COMO  usuario
 
@@ -153,7 +153,7 @@ Siguen el siguiente template:
 	PARA no quedarme registrado en contra de mi voluntad
  
     
-   ### U6:
+   ### US6:
 
 	COMO  usuario
 
