@@ -109,14 +109,13 @@ Siguen el siguiente template:
 
   - Feature: Sesión
 
-    ### U1:
+  ### U2:
 
 	COMO  usuario
 
 	QUIERO poder logearme al sistema
 
-	PARA identificarme y obtener información relevante a mis viajes.
- 
+	PARA identificarme y obtener información relevante a mis viajes
  
    ### U2:
 
@@ -129,14 +128,13 @@ Siguen el siguiente template:
 
   - Feature: CRUD Usuarios
   
-    ### U3:
+   ### U2:
 
 	COMO  usuario
 
 	QUIERO poder registrarme en el sistema
 
 	PARA poder disfrutar de una experiencia personalizada
-   
    
    ### U4:
 
@@ -146,8 +144,7 @@ Siguen el siguiente template:
 
 	PARA poder corregir o actualizar datos asociados a mi persona
     
-    
-    ### U5:
+   ### U5:
 
 	COMO  usuario
 
@@ -156,7 +153,7 @@ Siguen el siguiente template:
 	PARA no quedarme registrado en contra de mi voluntad
  
     
-    ### U6:
+   ### U6:
 
 	COMO  usuario
 
@@ -164,10 +161,8 @@ Siguen el siguiente template:
 
 	PARA no perder la cuenta si se me olvida la contraseña
  
- 
-    - US:
 
-- Epica: Busqueda y listado
+# Epica: Busqueda y listado
 
   - Feature: Busqueda de linea con filtros
 
