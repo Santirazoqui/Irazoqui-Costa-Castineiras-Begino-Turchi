@@ -147,3 +147,11 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
 Para llevar un seguimiento de las horas trabajadas por el equipo, se decidio crear una tabla, dividida en actividades, donde cada integrante del equipo registre las horas trabajadas para sus respectivas tareas.
 
 En esta iteracion, tomamos las categorias que se observaran a continuacion como las tareas principales para llevar a cabo.
+
+| Iteración 1 | Participante        | Horas de Investigación | Horas de desarrollo | Horas de documentación | Horas de investigación funcionamiento de herramienta | Total horas |
+| ----------- | ------------------- | ---------------------- | ------------------- | ---------------------- | ---------------------------------------------------- | ----------- |
+| 1           | Sofia Begino        | 3                      | 4                   | 2                      | 2                                                    | 11          |
+| 1           | Mathias Castiñeiras | 1                      | 5                   | 3                      | 2                                                    | 11          |
+| 1           | Mateo Costa         | 2                      | 4                   | 3                      | 2                                                    | 11          |
+| 1           | Santiago Irazoqui   | 1                      | 5                   | 2                      | 3                                                    | 11          |
+| 1           | Juan Turchi         | 1                      | 5                   | 2                      | 3                                                    | 11          |
