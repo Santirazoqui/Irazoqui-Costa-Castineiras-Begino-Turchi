@@ -1,7 +1,6 @@
 # Obligatorio ISA1 - Sprint 1
 
-Irazoqui-Costa-Castineiras-Begino-Turchi
-![Screenshot](./Iteracion1/Imagenes/"Moovit - Busqueda de lineas.jpg")
+Irazoqui-Costa-Castineiras-Begino-Turchi <br>
 
 ## Roles
 
@@ -59,7 +58,17 @@ Lista de interesados:
 &nbsp;1: Guardado de destinos para obtener direcciones rápidas (Ej: casa, trabajo, facultad)
 <br>
 &nbsp;2: Si se elige un destino al que ninguna linea cercana llegue, se proporciona una combinación de lineas de transporte diferentes
-</br>
+<br>
+<br>
+
+| Busqueda de lineas  | Destinos favoritos | Linea Favorita |
+| ------------- | ------------- | ------------ |
+| <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-Busqueda%20de%20lineas.jpg" width="250" height=auto />  | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-destinos%20favoritos%20y%20uber.jpg" width="250" height=auto />  | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-linea%20favorita.jpg" width="250" height=auto /> |
+
+| Mapa de paradas cercanas | Paradas de la linea y proxima llegada | Mapa de ruta completa |
+| -------- | -------- | -------- |
+| <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-paradas%20cercanas.jpg" width="250" height=auto /> | <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-paradas%20y%20proxima%20llegada.jpg" width="250" height=auto />| <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Moovit-ruta%20completa.jpg" width="250" height=auto /> |
+
 
 #### Google maps
 <p>Google maps, al ser una aplicación que no esta centrada en el tranposrte público únicamente, tiene algunas funcionalidades que nos parece interesante implementar en nuestra aplicación:</p>
