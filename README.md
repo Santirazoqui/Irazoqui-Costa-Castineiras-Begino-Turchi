@@ -2,6 +2,17 @@
 
 Irazoqui-Costa-Castineiras-Begino-Turchi <br>
 
+## Sprint Planning
+
+Para esta ceremonia, el equipo decidio tanto armar un grupo de Whatsapp, como la creacion de un documento inicial utilizando Google Docs, para establecer varios puntos de comunicacion en el grupo e ir lanzando las primeras ideas. A continuacion se determino la adaptacion del grupo al marco de Scrum, dialogando acerca de como la solucion puede ser tomada desde una metodologia agil, como tambien los cronogramas de cada uno para asignar las ceremonias correspondientes. Luego, se leyo la consigna de la entrega nuevamente, para evacuar cualquier tipo de duda que haya quedado entre los integrantes. Una vez hecho eso, comenzo la separacion de requisitos en el documento, de forma informal.
+
+Para concluir la planning meeting, se determinaron los objetivos para esta primer iteracion. Estos fueron:
+
+- Recopilar los requisitos
+- Identificar interesados
+- Analizar a la competencia
+- Documentar, utilizando Azure Boards, los requisitos en forma de User Stories y Epicas.
+
 ## Roles
 
 PO: Mathias Castineiras \
@@ -14,6 +25,8 @@ Estudiar a los competidores, robar ideas, ver que funciona y porqué. Que cosas 
 →Definition of Done (hay que tener las funcionalidades primero): \
 →Definition of Ready: “The Definition of Ready is a set of agreements that lets everyone know when something is ready to begin”. Definition of Ready | Scrum Inc..\
 Scrum Master: todos.
+
+Para esta iteracion, como no se encontro mucho trabajo de desarrollo, todos los integrantes realizaron ciertas actividades que mas adelante no formaran parte de su "rol designado". Esto lo hicimos para que no se centre la mayoria del trabajo en uno de los miembros del grupo. Se mantuvo un mismo Product Owner, por ejemplo, para las ceremonias y aprobacion del Pull Request para la entrega del primer sprint, para darle una continuidad a la iteracion de todas formas.
 
 ## Adaptación del marco de Scrum al contexto de nuestro proyecto
 
@@ -50,7 +63,7 @@ Lista de interesados:
 
 &nbsp;&nbsp;(Estas van a ir para el PO y el board. Lo mejor sería armas épicas y separarlas en más chicas.)
 
-ñ### Identificación y análisis de competidores
+### Identificación y análisis de competidores
 
 #### Moovit:
 
@@ -98,85 +111,81 @@ Las identificamos por la abreviación “US” seguida de un número identificad
 
 Siguen el siguiente template:
 
-	CÓMO <ROL>
+    CÓMO <ROL>
 
-	QUIERO <ACCION>
+    QUIERO <ACCION>
 
-	PARA <MOTIVO DE NEGOCIO>
-
+    PARA <MOTIVO DE NEGOCIO>
 
 # Épica 1: Gestión de Usuarios
 
-  ## Feature: Sesión
+## Feature: Sesión
 
-  ### US1:
+### US1:
 
-	COMO  usuario
+    COMO  usuario
 
-	QUIERO poder logearme al sistema
+    QUIERO poder logearme al sistema
 
-	PARA identificarme y obtener información relevante a mis viajes
- 
-   ### US2:
+    PARA identificarme y obtener información relevante a mis viajes
 
-	COMO  usuario
+### US2:
 
-	QUIERO poder cerrar sesión
+    COMO  usuario
 
-	PARA poder acceder al sistema desde un dispositivo de manera temporal
- 
+    QUIERO poder cerrar sesión
 
-  ## Feature: CRUD Usuarios
-  
-   ### US3:
+    PARA poder acceder al sistema desde un dispositivo de manera temporal
 
-	COMO  usuario
+## Feature: CRUD Usuarios
 
-	QUIERO poder registrarme en el sistema
+### US3:
 
-	PARA poder disfrutar de una experiencia personalizada
-   
-   ### US4:
+    COMO  usuario
 
-	COMO  usuario
+    QUIERO poder registrarme en el sistema
 
-	QUIERO poder editar los datos que asocie a mi usuario
+    PARA poder disfrutar de una experiencia personalizada
 
-	PARA poder corregir o actualizar datos asociados a mi persona
-    
-   ### US5:
+### US4:
 
-	COMO  usuario
+    COMO  usuario
 
-	QUIERO poder eliminar mi cuenta
-	
-	PARA no quedarme registrado en contra de mi voluntad
- 
-    
-   ### US6:
+    QUIERO poder editar los datos que asocie a mi usuario
 
-	COMO  usuario
+    PARA poder corregir o actualizar datos asociados a mi persona
 
-	QUIERO poder restaurar mi contraseña
+### US5:
 
-	PARA no perder la cuenta si se me olvida la contraseña
- 
+    COMO  usuario
+
+    QUIERO poder eliminar mi cuenta
+
+    PARA no quedarme registrado en contra de mi voluntad
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO poder restaurar mi contraseña
+
+    PARA no perder la cuenta si se me olvida la contraseña
 
 # Epica: Busqueda y listado
 
-  - Feature: Busqueda de linea con filtros
+- Feature: Busqueda de linea con filtros
 
-    - US: Buscar linea utilizando filtros.
+  - US: Buscar linea utilizando filtros.
 
-  - Feature: Listado de lineas cercanas con informacion relevante.
+- Feature: Listado de lineas cercanas con informacion relevante.
 
-    - US: Ver información de destino/origen
-    - US: Ver información de cantidad de pasajeros
+  - US: Ver información de destino/origen
+  - US: Ver información de cantidad de pasajeros
 
-  - Feature: Historial de busqueda y de viajes
+- Feature: Historial de busqueda y de viajes
 
-    - US: Ver historial de busqueda
-    - US: Guardar un destino para obtener direcciones rápidas
+  - US: Ver historial de busqueda
+  - US: Guardar un destino para obtener direcciones rápidas
 
 - Epica: Modo viaje.
 
@@ -199,6 +208,13 @@ Siguen el siguiente template:
   - US: Notificar el tiempo de llegada a parada habitual.
   - US: Notificar si la linea seleccionada esta retrasada
   - US: Notificar si la linea seleccionada esta desviada.
+
+### Definition of Done
+
+El equipo, ademas de tener como requisito de la entrega, decidio que formalizar una Definition of Done era vital para el correcto, eficiente y constante desarrollo del proyecto.
+-Una historia de usuario se puede considerar como completada si:
+-Cumple con los criterios de aceptación asociados a ella.
+-Se realizó una validacion con potenciales usuarios finales. Su contenido fue revisado por otros integrantes del equipo, que realizaron su validación.
 
 ## Planilla con el tiempo de trabajo
 
