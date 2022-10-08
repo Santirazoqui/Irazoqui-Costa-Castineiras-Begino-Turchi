@@ -15,11 +15,7 @@ Para tener un mayor orden y tambien seguir la rubrica de la evaluacion, el equip
 
 ### Adaptación del marco de Scrum al contexto de nuestro proyecto
 
-En nuestro contexto por ser estudiantes y no estar trabajando, se nos complican mucho los horarios y los días. Quizás algunos solo pueden trabajar los fines de semana, por ejemplo. Por lo tanto, no vamos a hacer la Daily Scrum como evento.
-
-De todos modos, decidimos hacer una reunión de Daily Scrum algún día marcado por el equipo. No solo para ver el progreso del equipo, sino también para simular como sería el evento en vida real.
-
-El resto de ceremonias de Scrum se van a realizar como es apropiado dentro del marco de Scrum en general (Sprint Planning Meeting, Sprint Review Meeting, Sprint Retrospective Meeting).
+En nuestro contexto por ser estudiantes y no estar trabajando, muchos puntos de SCRUM como metodología agil no van a poder ser aplicables. Por eso vamos a adaptarlo a nuestro contexto. Por ejemplo, en esta primera iteración, al no tener ninguna User Story creada, muchas cosas no se hicieron. El PO no selecciono las US para el sprint, por lo que no hubo Sprint Backlog. Tampoco pudimos estimarlas ya que no existían. En la Sprint Review o demo con el cliente, tampoco hubo un progreso real, por lo que la actividad de comparar US con el software tampoco existió. Por otro lado se nos complican mucho los horarios y los días al ser un grupo de 5 personas. Quizás algunos solo pueden trabajar los fines de semana, por ejemplo, y otros algunos días entre semana. Por lo tanto, no vamos a hacer la Daily Scrum como el evento normal de SCRUM. De todos modos, decidimos hacer una reunión de Daily Scrum algún día marcado por el equipo. No solo para ver el progreso del equipo, sino también para simular como sería el evento en vida real.
 
 ### Sprint Planning
 
