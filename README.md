@@ -4,18 +4,11 @@ Irazoqui-Costa-Castineiras-Begino-Turchi <br>
 
 ## Roles
 
-PO: Mathias Castineiras \
- Desarrolladores: el resto \
-→Investigar funcionalidades: \
- &nbsp;&nbsp; Ej: Buscar línea de bus (usuario), mostrar ads (empresas) \
-→Identificación interesados (users, stakeholders -cliente, estado, publicidad, etc.) y estudio de competidores (robar ideas): \
- &nbsp;&nbsp; Analizar a todos los interesados y justificar.
-Estudiar a los competidores, robar ideas, ver que funciona y porqué. Que cosas no nos gustan y queremos cambiar \
-→Definition of Done (hay que tener las funcionalidades primero): \
-→Definition of Ready: “The Definition of Ready is a set of agreements that lets everyone know when something is ready to begin”. Definition of Ready | Scrum Inc..\
-Scrum Master: todos.
-
 Para esta iteracion, como no se encontro mucho trabajo de desarrollo, todos los integrantes realizaron ciertas actividades que mas adelante no formaran parte de su "rol designado". Esto lo hicimos para que no se centre la mayoria del trabajo en uno de los miembros del grupo. Se mantuvo un mismo Product Owner, por ejemplo, para las ceremonias y aprobacion del Pull Request para la entrega del primer sprint, para darle una continuidad a la iteracion de todas formas.
+
+## Uso de GitHub como control de versionado
+
+Para tener un mayor orden y tambien seguir la rubrica de la evaluacion, el equipo utilizo un repositorio de GitHub donde el proyecto sera fraccionado en las distintas iteraciones. Las branches principales que seran creadas seran destinadas a las iteraciones particulares, siguiendo el formato "IteracionN" donde N es el numero de iteracion. En las distintas fechas de entrega, se realizara un merge de la iteracion correspondiente a la branch main, de forma que la correccion no permita malintepretaciones ni errores a la hora de controlar la version del trabajo. El equipo tomo la decision de realizar todas las branches de las features basadas en la "rama base" de la iteracion en la que se encuentre el proyecto, con el fin de evitar posibles erorres de merging. Ademas, mediante Pull Requests fomentamos la review de branches antes de mergear, para poder detectar posibles errores o incongruencias.
 
 ## Scrum
 
@@ -38,12 +31,13 @@ Para concluir la planning meeting, se determinaron los objetivos para esta prime
 - Analizar a la competencia
 - Documentar, utilizando Azure Boards, los requisitos en forma de User Stories y Epicas.
 
-
 ## Proyecto
 
-### Interesados
+## Definición del problema / solución
 
-&nbsp;&nbsp;Personas de cualquier edad que utilicen el transporte público.
+El objetivo de este proyecto es el desarrollo de una aplicacion movil para ayudar al usuario con el transporte publico en la vida cotidiana, a traves de la metodologia agil de SCRUM. El equipo consta de 5 integrantes, donde los roles a impersonar por cada uno iran variando a lo largo del proyecto, con el fin de que todos tengamos experiencia en las responsabilidades que cada rol conlleva. A lo largo de las 4 iteraciones, se realizaran las ceremonias correspondientes para que el desarrollo incremental de nuestro proyecto logre completarse correctamente y brindar el prototipo final de la mejor forma posible.
+
+### Interesados
 
 Uno de los principales elemenots para el correcto desarrollo de una aplicacion es la identificacion de los interesados. Consideramos interesado a todo aquel potencial usuario de la aplicacion, como otras distintas entidades que se vean afectadas tanto positiva como negativamente a traves de la app. (matriz de interesados?)
 Lista de interesados:
@@ -56,10 +50,6 @@ Lista de interesados:
 - Posibles inversionistas?
 - Trabajadores del rubro
 - Empresa encargada de mantenimiento e instalacion de la app.
-
-### Funcionalidades por interesado
-
-&nbsp;&nbsp;(Estas van a ir para el PO y el board. Lo mejor sería armas épicas y separarlas en más chicas.)
 
 ### Identificación y análisis de competidores
 
@@ -87,14 +77,6 @@ Lista de interesados:
 <br>
 &nbsp;2: Otra funcionalidad interesante que proporciona google es que cuando marcamos una ruta a seguir en automovil, se le avisa al usuario que porciones de esa ruta se encuentran congestionadas por tráfico (Si es que la hay). La ruta puede aparecer en amarillo/naranja (congestionada), y rojo(muy congestionada).
 </br>
-
-## Uso de GitHub como control de versionado
-
-Para tener un mayor orden y tambien seguir la rubrica de la evaluacion, el equipo utilizo un repositorio de GitHub donde el proyecto sera fraccionado en las distintas iteraciones. Las branches principales que seran creadas seran destinadas a las iteraciones particulares, siguiendo el formato "IteracionN" donde N es el numero de iteracion. En las distintas fechas de entrega, se realizara un merge de la iteracion correspondiente a la branch main, de forma que la correccion no permita malintepretaciones ni errores a la hora de controlar la version del trabajo. El equipo tomo la decision de realizar todas las branches de las features basadas en la "rama base" de la iteracion en la que se encuentre el proyecto, con el fin de evitar posibles erorres de merging. Ademas, mediante Pull Requests fomentamos la review de branches antes de mergear, para poder detectar posibles errores o incongruencias.
-
-## Definición del problema / solución
-
-El objetivo de este proyecto es el desarrollo de una aplicacion movil para ayudar al usuario con el transporte publico en la vida cotidiana, a traves de la metodologia agil de SCRUM. El equipo consta de 5 integrantes, donde los roles a impersonar por cada uno iran variando a lo largo del proyecto, con el fin de que todos tengamos experiencia en las responsabilidades que cada rol conlleva. A lo largo de las 4 iteraciones, se realizaran las ceremonias correspondientes para que el desarrollo incremental de nuestro proyecto logre completarse correctamente y brindar el prototipo final de la mejor forma posible.
 
 ### Evidencia de utilizacion de marco ágil a través de Azure Boards
 
@@ -235,10 +217,10 @@ Para llevar un seguimiento de las horas trabajadas por el equipo, se decidio cre
 
 En esta iteracion, tomamos las categorias que se observaran a continuacion como las tareas principales para llevar a cabo.
 
-| Iteración 1 | Participante        | Horas de Investigación | Horas de desarrollo | Horas de documentación | Horas de investigación funcionamiento de herramienta | Total horas |
-| ----------- | ------------------- | ---------------------- | ------------------- | ---------------------- | ---------------------------------------------------- | ----------- |
-| 1           | Sofia Begino        | 3                      | 4                   | 2                      | 2                                                    | 11          |
-| 1           | Mathias Castiñeiras | 1                      | 5                   | 3                      | 2                                                    | 11          |
-| 1           | Mateo Costa         | 2                      | 4                   | 3                      | 2                                                    | 11          |
-| 1           | Santiago Irazoqui   | 1                      | 5                   | 2                      | 3                                                    | 11          |
-| 1           | Juan Turchi         | 1                      | 5                   | 2                      | 3                                                    | 11          |
+| Iteración 1 | Participante        | Horas de Investigación | Horas de documentación | Horas de investigación funcionamiento de herramienta | Total horas |
+| ----------- | ------------------- | ---------------------- | ---------------------- | ---------------------------------------------------- | ----------- |
+| 1           | Sofia Begino        | 3                      | 4                      | 2                                                    | 9           |
+| 1           | Mathias Castiñeiras | 3                      | 2                      | 4                                                    | 9           |
+| 1           | Mateo Costa         | 3                      | 3                      | 3                                                    | 9           |
+| 1           | Santiago Irazoqui   | 5                      | 2                      | 2                                                    | 9           |
+| 1           | Juan Turchi         | 1                      | 5                      | 3                                                    | 9           |
