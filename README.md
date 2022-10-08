@@ -285,9 +285,6 @@ Siguen el siguiente template:
     PARA poder elegir el viaje que más se acople a mis necesidades
 
 
-# !!!! US: Ver informacón extra ==> puede ser hora de llegada a parada, hora de llegada a destino, etc.
-
-
 ## Feature: Compartir viaje a otro usuario
 
 ### US6-E3:
