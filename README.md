@@ -31,6 +31,13 @@ Para concluir la planning meeting, se determinaron los objetivos para esta prime
 - Analizar a la competencia
 - Documentar, utilizando Azure Boards, los requisitos en forma de User Stories y Epicas.
 
+### Daily
+
+El objetivo de la daily fue ver el progreso del equipo al final de la semana. Intentamos seguir el evento como se hace normalmente en Scrum. Es decir, fue una reunion corta de unos 15 minutos en la que cada uno hablo de lo que pudo hacer, que haría a futuro, y que trabas o dudas tenía para que el equipo lo ayudara.
+
+Foto del equipo en la daily hecha en teams:<br>
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Daily.jpg" width=100% height=auto />
+
 ## Proyecto
 
 ## Definición del problema / solución
