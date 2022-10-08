@@ -77,7 +77,8 @@ Hicimos una investigación acerca de las aplicaciones móviles existentes para e
 <p>Vemos que la app de moovit proporciona muchas de las funcionalidades que nuestra aplicación quiere brindar, pero también tienen algunas que consideramos útiles para agregar:</p>
 <br>
 &nbsp;1: Guardado de destinos para obtener direcciones rápidas (Ej: casa, trabajo, facultad)
-<br>
+
+
 &nbsp;2: Si se elige un destino al que ninguna linea cercana llegue, se proporciona una combinación de lineas de transporte diferentes
 <br>
 <br>
@@ -96,7 +97,6 @@ Hicimos una investigación acerca de las aplicaciones móviles existentes para e
 <br>
 &nbsp;1: "Google street view": permite ver una localización en modo 3D mediante fotos que toma el carro de google al pasar por un lugar. De forma similar, cuando se busca un lugar, google también muestra la foto más reciente de dicho lugar. Simulando estas funcionalidades, se nos ocurre aplicarlas para que el usuario pueda chequear con fotos, o girar la camara en modo 3D y mirar los alrededores, los lugares de llegada, las paradas, entre otros. Consideramos que esto puede ser útil para aquellos que desconocen la ubicación en la que se encuentran.
 
-<br>
 &nbsp;2: Cuando el usuario selecciona una ruta a seguir en automovil, se le avisa qué porciones se encuentran congestionadas por tráfico (si es que las hay). La ruta puede aparecer en amarillo/naranja (congestionada), y rojo (muy congestionada).
 <br>
 
