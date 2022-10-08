@@ -2,17 +2,6 @@
 
 Irazoqui-Costa-Castineiras-Begino-Turchi <br>
 
-## Sprint Planning
-
-Para esta ceremonia, el equipo decidio tanto armar un grupo de Whatsapp, como la creacion de un documento inicial utilizando Google Docs, para establecer varios puntos de comunicacion en el grupo e ir lanzando las primeras ideas. A continuacion se determino la adaptacion del grupo al marco de Scrum, dialogando acerca de como la solucion puede ser tomada desde una metodologia agil, como tambien los cronogramas de cada uno para asignar las ceremonias correspondientes. Luego, se leyo la consigna de la entrega nuevamente, para evacuar cualquier tipo de duda que haya quedado entre los integrantes. Una vez hecho eso, comenzo la separacion de requisitos en el documento, de forma informal.
-
-Para concluir la planning meeting, se determinaron los objetivos para esta primer iteracion. Estos fueron:
-
-- Recopilar los requisitos
-- Identificar interesados
-- Analizar a la competencia
-- Documentar, utilizando Azure Boards, los requisitos en forma de User Stories y Epicas.
-
 ## Roles
 
 PO: Mathias Castineiras \
@@ -28,13 +17,29 @@ Scrum Master: todos.
 
 Para esta iteracion, como no se encontro mucho trabajo de desarrollo, todos los integrantes realizaron ciertas actividades que mas adelante no formaran parte de su "rol designado". Esto lo hicimos para que no se centre la mayoria del trabajo en uno de los miembros del grupo. Se mantuvo un mismo Product Owner, por ejemplo, para las ceremonias y aprobacion del Pull Request para la entrega del primer sprint, para darle una continuidad a la iteracion de todas formas.
 
-## Adaptación del marco de Scrum al contexto de nuestro proyecto
+## Scrum
+
+### Adaptación del marco de Scrum al contexto de nuestro proyecto
 
 En nuestro contexto por ser estudiantes y no estar trabajando, se nos complican mucho los horarios y los días. Quizás algunos solo pueden trabajar los fines de semana, por ejemplo. Por lo tanto, no vamos a hacer la Daily Scrum como evento.
 
 De todos modos, decidimos hacer una reunión de Daily Scrum algún día marcado por el equipo. No solo para ver el progreso del equipo, sino también para simular como sería el evento en vida real.
 
 El resto de ceremonias de Scrum se van a realizar como es apropiado dentro del marco de Scrum en general (Sprint Planning Meeting, Sprint Review Meeting, Sprint Retrospective Meeting).
+
+### Sprint Planning
+
+Para esta ceremonia, el equipo decidio tanto armar un grupo de Whatsapp, como la creacion de un documento inicial utilizando Google Docs, para establecer varios puntos de comunicacion en el grupo e ir lanzando las primeras ideas. A continuacion se determino la adaptacion del grupo al marco de Scrum, dialogando acerca de como la solucion puede ser tomada desde una metodologia agil, como tambien los cronogramas de cada uno para asignar las ceremonias correspondientes. Luego, se leyo la consigna de la entrega nuevamente, para evacuar cualquier tipo de duda que haya quedado entre los integrantes. Una vez hecho eso, comenzo la separacion de requisitos en el documento, de forma informal.
+
+Para concluir la planning meeting, se determinaron los objetivos para esta primer iteracion. Estos fueron:
+
+- Recopilar los requisitos
+- Identificar interesados
+- Analizar a la competencia
+- Documentar, utilizando Azure Boards, los requisitos en forma de User Stories y Epicas.
+
+
+## Proyecto
 
 ### Interesados
 
