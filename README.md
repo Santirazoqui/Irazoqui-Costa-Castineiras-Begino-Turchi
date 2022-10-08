@@ -51,8 +51,8 @@ Para llevar a cabo esta ceremonia, se hizo uso de la herramienta MetroRetro, que
     - Meets sin camara: Creemos que las meets deben pasar a ser con camara encendida, ya que la interaccion cara a cara hace que el compromiso grupal aumente, ademas de las buenas relaciones, fundamentales para el correcto desarrollo de un proyecto.
 
 Foto del equipo en la sprint planning hecha en teams:<br>
-<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Retro.jpeg" width=100% height=auto />
 <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Retro1.jpeg" width=100% height=auto />
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Retro.jpeg" width=100% height=auto />
 
 #### Aclaración sobre el tablero
 
