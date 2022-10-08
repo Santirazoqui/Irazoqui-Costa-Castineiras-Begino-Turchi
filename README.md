@@ -47,7 +47,7 @@ Foto del equipo en la daily hecha en teams:<br>
 
 ## Proyecto
 
-## Definición del problema / solución
+### Definición del problema / solución
 
 El objetivo de este proyecto es el desarrollo de una aplicacion movil para ayudar al usuario con el transporte publico en la vida cotidiana, a traves de la metodologia agil de SCRUM. El equipo consta de 5 integrantes, donde los roles a impersonar por cada uno iran variando a lo largo del proyecto, con el fin de que todos tengamos experiencia en las responsabilidades que cada rol conlleva. A lo largo de las 4 iteraciones, se realizaran las ceremonias correspondientes para que el desarrollo incremental de nuestro proyecto logre completarse correctamente y brindar el prototipo final de la mejor forma posible.
 
