@@ -36,13 +36,6 @@ De todos modos, decidimos hacer una reunión de Daily Scrum algún día marcado 
 
 El resto de ceremonias de Scrum se van a realizar como es apropiado dentro del marco de Scrum en general (Sprint Planning Meeting, Sprint Review Meeting, Sprint Retrospective Meeting).
 
-## Objetivos del Primer Sprint
-
-→Identificación del problema a resolver\
-→Definición del problema y solución.
-
-## Problema a resolver
-
 ### Interesados
 
 &nbsp;&nbsp;Personas de cualquier edad que utilicen el transporte público.
@@ -209,10 +202,25 @@ Siguen el siguiente template:
   - US: Notificar si la linea seleccionada esta retrasada
   - US: Notificar si la linea seleccionada esta desviada.
 
+### Definition of Ready
+
+Una historia de usuario está lista para ser integrada al Sprint Backlog del Sprint actual si:
+
+- La historia de usuario está definida de forma clara, y esta es entendible por parte de todos los integrantes del equipo.
+- La historia de usuario es testeable, se puede verificar que cumple su funcionalidad.
+- La historia de usuario debe ser realizable dentro del tiempo del Sprint acorde a nuestra Definition of Done.
+
+#### ¿Cómo pensamos cumplir con Definition Of Ready?
+
+- Escribir historias de usuario en forma grupal, y añadir criterios de aceptación para cada una de ellas, de forma de que estas sean claras pero no establezcan un - contrato, sino que permitan una conversación con el cliente que de la posibilidad de expandir en cómo llevar a cabo la user story.
+- Escribir criterios de aceptación para cada historia de forma que estos permitan que cada historia sea testeable.
+- Escribir historias de usuario que sean realizables dentro del scope del team. Si no es el caso, separarlas en unidades mas pequeñas hasta que su tamaño sea acorde para cumplir con nuestra Definition Of Ready.
+
 ### Definition of Done
 
 El equipo, ademas de tener como requisito de la entrega, decidio que formalizar una Definition of Done era vital para el correcto, eficiente y constante desarrollo del proyecto.
--Una historia de usuario se puede considerar como completada si:
+
+Una historia de usuario se puede considerar como completada si:
 -Cumple con los criterios de aceptación asociados a ella.
 -Se realizó una validacion con potenciales usuarios finales. Su contenido fue revisado por otros integrantes del equipo, que realizaron su validación.
 
