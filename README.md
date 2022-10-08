@@ -49,15 +49,15 @@ El objetivo de este proyecto es el desarrollo de una aplicacion movil para ayuda
 
 ### Interesados
 
-Uno de los principales elemenots para el correcto desarrollo de una aplicacion es la identificacion de los interesados. Consideramos interesado a todo aquel potencial usuario de la aplicacion, como otras distintas entidades que se vean afectadas tanto positiva como negativamente a traves de la app. (matriz de interesados?)
+Uno de los principales elementos para el correcto desarrollo de una aplicacion es la identificacion de los interesados. Consideramos interesado a todo aquel potencial usuario de la aplicacion, como otras distintas entidades que se vean afectadas tanto positiva como negativamente a traves de la app. 
+
 Lista de interesados:
 
 - Estudiantes
 - Trabajadores
-- Gente que sea incapaz de transportarse por sus propios medios.
+- Gente que sea incapaz de transportarse por sus propios medios
 - Entidades gubernamentales
 - Competidores
-- Posibles inversionistas?
 - Trabajadores del rubro
 - Empresa encargada de mantenimiento e instalacion de la app.
 
