@@ -6,6 +6,7 @@ Irazoqui-Costa-Castineiras-Begino-Turchi <br>
 
 Para esta iteracion, como no se encontro mucho trabajo de desarrollo, todos los integrantes realizaron ciertas actividades que mas adelante no formaran parte de su "rol designado". Esto lo hicimos para que no se centre la mayoria del trabajo en uno de los miembros del grupo. Se mantuvo un mismo Product Owner, por ejemplo, para las ceremonias y aprobacion del Pull Request para la entrega del primer sprint, para darle una continuidad a la iteracion de todas formas.
 
+
 ## Uso de GitHub como control de versionado
 
 Para tener un mayor orden y tambien seguir la rubrica de la evaluacion, el equipo utilizo un repositorio de GitHub donde el proyecto sera fraccionado en las distintas iteraciones. Las branches principales que seran creadas seran destinadas a las iteraciones particulares, siguiendo el formato "IteracionN" donde N es el numero de iteracion. En las distintas fechas de entrega, se realizara un merge de la iteracion correspondiente a la branch main, de forma que la correccion no permita malintepretaciones ni errores a la hora de controlar la version del trabajo. El equipo tomo la decision de realizar todas las branches de las features basadas en la "rama base" de la iteracion en la que se encuentre el proyecto, con el fin de evitar posibles erorres de merging. Ademas, mediante Pull Requests fomentamos la review de branches antes de mergear, para poder detectar posibles errores o incongruencias.
@@ -30,6 +31,12 @@ Para concluir la planning meeting, se determinaron los objetivos para esta prime
 - Identificar interesados
 - Analizar a la competencia
 - Documentar, utilizando Azure Boards, los requisitos en forma de User Stories y Epicas.
+
+#### Aclaración sobre el tablero
+Nosotros al principio consideramos que el tablero iba a tener SOLO las US, o tarjetas asociadas al producto. En esta primera iteración, las cosas que hicimos no son del producto directamente (creamos el product backlog, análsis de interesados y competidores, etc.), sino que es más una preparación del mismo. Por lo tanto, decidimos no agregar como tasks las tareas que nos dividimos en la Sprint Planning Meeting. Luego de hablar con los profesores en la clase de consulta y en la clase, decidimos que el tablero debe incluirlas, ya que son tareas que como desarrolladores llevamos acabo y son relevantes para el proyecto. Para los próximos sprints, vamos a añadir este tipo de tarjetas desde el principio o cuando surgan.
+
+Tasks creadas: <br>
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/TableroConTasks.jpg" width=100% height=auto />
 
 ### Daily
 
