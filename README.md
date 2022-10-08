@@ -63,9 +63,20 @@ Lista de interesados:
 
 ### Identificación y análisis de competidores
 
+Hicimos una investigación acerca de las aplicaciones móviles existentes para el manejo de transporte público en Uruguay. Consideramos que para poder posicionarnos a la altura del mercado, debemos igualar y potencialmente encontrar un factor diferencial que nos destaque. Debido a esto, decidimos agregar las funcionalidades de nuestros competidores que nos resultaron de valor e innovar con una nueva idea.
+
+#### Cómo ir IMM
+
+<p>Esta aplicación cuenta con una funcionalidad muy interesante que puede ser de gran valor para los usuarios acostumbrados a la tecnología: </p>
+<br>
+&nbsp;1: posibilidad de asociar la tarjeta STM de manera virtual. 
+<br>
+<br>
+
 #### Moovit:
 
-<p>Vemos que la app de moovit brinda muchas de las funcionalidades que nuestra aplicación quiere brindar. Sin embargo, hay algunas diferencias claves entre ambas aplicaciones, por lo que consideramos importante resaltar aquellas funcionalidades que sean nuevas en nuestra aplicación para que se destaque. Por otro lado, la aplicación de moovit también tiene diversas funcionalidades que son útiles, y decidimos que estaría bueno implementarlas y aprovecharnos de las que nos parezcan mejor. Las funcionalidades que decidimos implementar en nuestra app:</p>
+<p>Vemos que la app de moovit proporciona muchas de las funcionalidades que nuestra aplicación quiere brindar, pero también tienen algunas que consideramos útiles para agregar:</p>
+<br>
 &nbsp;1: Guardado de destinos para obtener direcciones rápidas (Ej: casa, trabajo, facultad)
 <br>
 &nbsp;2: Si se elige un destino al que ninguna linea cercana llegue, se proporciona una combinación de lineas de transporte diferentes
@@ -83,10 +94,13 @@ Lista de interesados:
 #### Google maps
 
 <p>Google maps, al ser una aplicación que no esta centrada en el tranposrte público únicamente, tiene algunas funcionalidades que nos parece interesante implementar en nuestra aplicación:</p>
-&nbsp;1: Google maps tiene la funcionalidad "Google street view", que permite ver una localización en modo 3D mediante fotos que toma el carro de google al pasar por un lugar. De forma similar, cuando se busca un lugar, google también muestra la foto más reciente de dicho lugar. Simulando estas funcionalidades, se nos ocurre aplicarlas para que el usuario pueda chequear con fotos, o girar la camara en modo 3D y mirar los alrededores, los lugares de llegada, las paradas, etc.
 <br>
-&nbsp;2: Otra funcionalidad interesante que proporciona google es que cuando marcamos una ruta a seguir en automovil, se le avisa al usuario que porciones de esa ruta se encuentran congestionadas por tráfico (Si es que la hay). La ruta puede aparecer en amarillo/naranja (congestionada), y rojo(muy congestionada).
-</br>
+&nbsp;1: "Google street view": permite ver una localización en modo 3D mediante fotos que toma el carro de google al pasar por un lugar. De forma similar, cuando se busca un lugar, google también muestra la foto más reciente de dicho lugar. Simulando estas funcionalidades, se nos ocurre aplicarlas para que el usuario pueda chequear con fotos, o girar la camara en modo 3D y mirar los alrededores, los lugares de llegada, las paradas, entre otros. Consideramos que esto puede ser útil para aquellos que desconocen la ubicación en la que se encuentran.
+
+<br>
+&nbsp;2: Cuando el usuario selecciona una ruta a seguir en automovil, se le avisa qué porciones se encuentran congestionadas por tráfico (si es que las hay). La ruta puede aparecer en amarillo/naranja (congestionada), y rojo (muy congestionada).
+<br>
+
 
 ### Evidencia de utilizacion de marco ágil a través de Azure Boards
 
