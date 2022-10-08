@@ -71,6 +71,8 @@ Hicimos una investigación acerca de las aplicaciones móviles existentes para e
 
 &nbsp;1: posibilidad de asociar la tarjeta STM de manera virtual. 
 <br>
+No lo agregamos para este sprint, pero lo planeamos incorporar en el siguiente.
+
 
 #### Moovit:
 
@@ -100,6 +102,13 @@ Hicimos una investigación acerca de las aplicaciones móviles existentes para e
 &nbsp;2: Cuando el usuario selecciona una ruta a seguir en automovil, se le avisa qué porciones se encuentran congestionadas por tráfico (si es que las hay). La ruta puede aparecer en amarillo/naranja (congestionada), y rojo (muy congestionada).
 <br>
 
+
+#### Funcionalidad innovadora
+
+Como funcionalidad innovadora, decidimos agregar la posiblidad de comprar el boleto de manera online, permitiendo presentarle un código QR al chofer. 
+Esta idea se nos ocurrió al analizar qué cosas nos gustaría a nosotros, como usuarios, que una aplicación de transporte tenga. Dado que se ha normalizado mucho el uso de tarjetas de crédito en nuestro día a día, muchas veces nos encontramos en situaciones en las que no contamos con efectivo ni boletera, y la posibilidad de comprar el boleto virtualmente suena muy conveniente.
+
+No lo agregamos para este sprint, pero lo planeamos incorporar en el siguiente.
 
 ### Evidencia de utilizacion de marco ágil a través de Azure Boards
 
@@ -281,7 +290,7 @@ Siguen el siguiente template:
 
 ## Feature: Compartir viaje a otro usuario
 
-### US6--E3:
+### US6-E3:
 
     COMO  usuario
 
