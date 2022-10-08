@@ -6,7 +6,6 @@ Irazoqui-Costa-Castineiras-Begino-Turchi <br>
 
 Para esta iteracion, como no se encontro mucho trabajo de desarrollo, todos los integrantes realizaron ciertas actividades que mas adelante no formaran parte de su "rol designado". Esto lo hicimos para que no se centre la mayoria del trabajo en uno de los miembros del grupo. Se mantuvo un mismo Product Owner, por ejemplo, para las ceremonias y aprobacion del Pull Request para la entrega del primer sprint, para darle una continuidad a la iteracion de todas formas.
 
-
 ## Uso de GitHub como control de versionado
 
 Para tener un mayor orden y tambien seguir la rubrica de la evaluacion, el equipo utilizo un repositorio de GitHub donde el proyecto sera fraccionado en las distintas iteraciones. Las branches principales que seran creadas seran destinadas a las iteraciones particulares, siguiendo el formato "IteracionN" donde N es el numero de iteracion. En las distintas fechas de entrega, se realizara un merge de la iteracion correspondiente a la branch main, de forma que la correccion no permita malintepretaciones ni errores a la hora de controlar la version del trabajo. El equipo tomo la decision de realizar todas las branches de las features basadas en la "rama base" de la iteracion en la que se encuentre el proyecto, con el fin de evitar posibles erorres de merging. Ademas, mediante Pull Requests fomentamos la review de branches antes de mergear, para poder detectar posibles errores o incongruencias.
@@ -31,7 +30,32 @@ Para concluir la planning meeting, se determinaron los objetivos para esta prime
 Foto del equipo en la sprint planning hecha en teams:<br>
 <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Planning.png" width=100% height=auto />
 
+### Sprint Retrospective
+
+Para llevar a cabo esta ceremonia, se hizo uso de la herramienta MetroRetro, que se especializa justamente en este evento del marco SCRUM. En nuestro caso, elegimos la template que nos brinda 4 secciones:
+
+- Good
+  - Las cosas que creimos que fueron buenas de este sprint fueron las siguientes:
+    - Organización: dividimos correctamente las responsabilidades
+    - Buena documentacion: tanto en Azure Boards, como en el markdown con los competidores.
+    - Buenas user stories: el equipo recopilo bien los requisitos.
+- Bad
+  - Las cosas que creimos que fueron malas, o no tan buenas, fueron las siguientes:
+    - Cronograma: debimos haber empezado con un poco mas de tiempo, ya que si bien alcanzamos la fecha en tiempo y forma, con un poco mas de antelacion quizas hubiesemos hecho un mejor trabajo.
+- Start
+  - Las cosas que creemos que debemos empezar a hacer fueron las siguientes:
+    - Mas meetings: Si bien en un comienzo nos parecio que iba a estar bien esa cantidad de meetings, hubieron muchas instancias de intercambio por WhatsApp que hubiesen sido mejor llevadas a cabo en una meet para facilitar la resolucion de los inconvenientes.
+    - Creacion de tarjetas: La recopilacion de requisitos fue buena, pero no creimos necesario anotar las Tasks que sean "ajenas" al producto, como la investigacion de competidores, etc. Anotamos algunas al final, pero no fueron todas.
+- Stop
+  - Las cosas que creemos que debemos dejar de hacer fueron las siguientes:
+    - Meets sin camara: Creemos que las meets deben pasar a ser con camara encendida, ya que la interaccion cara a cara hace que el compromiso grupal aumente, ademas de las buenas relaciones, fundamentales para el correcto desarrollo de un proyecto.
+
+Foto del equipo en la sprint planning hecha en teams:<br>
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Retro.jpeg" width=100% height=auto />
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Retro1.jpeg" width=100% height=auto />
+
 #### Aclaración sobre el tablero
+
 Nosotros al principio consideramos que el tablero iba a tener SOLO las US, o tarjetas asociadas al producto. En esta primera iteración, las cosas que hicimos no son del producto directamente (creamos el product backlog, análsis de interesados y competidores, etc.), sino que es más una preparación del mismo. Por lo tanto, decidimos no agregar como tasks las tareas que nos dividimos en la Sprint Planning Meeting. Luego de hablar con los profesores en la clase de consulta y en la clase, decidimos que el tablero debe incluirlas, ya que son tareas que como desarrolladores llevamos acabo y son relevantes para el proyecto. Para los próximos sprints, vamos a añadir este tipo de tarjetas desde el principio o cuando surgan.
 
 Tasks creadas: <br>
@@ -53,7 +77,7 @@ El objetivo de este proyecto es el desarrollo de una aplicacion movil para ayuda
 
 ### Interesados
 
-Uno de los principales elementos para el correcto desarrollo de una aplicacion es la identificacion de los interesados. Consideramos interesado a todo aquel potencial usuario de la aplicacion, como otras distintas entidades que se vean afectadas tanto positiva como negativamente a traves de la app. 
+Uno de los principales elementos para el correcto desarrollo de una aplicacion es la identificacion de los interesados. Consideramos interesado a todo aquel potencial usuario de la aplicacion, como otras distintas entidades que se vean afectadas tanto positiva como negativamente a traves de la app.
 
 Lista de interesados:
 
@@ -73,17 +97,15 @@ Hicimos una investigación acerca de las aplicaciones móviles existentes para e
 
 <p>Esta aplicación cuenta con una funcionalidad muy interesante que puede ser de gran valor para los usuarios acostumbrados a la tecnología: </p>
 
-&nbsp;1: posibilidad de asociar la tarjeta STM de manera virtual. 
+&nbsp;1: posibilidad de asociar la tarjeta STM de manera virtual.
 <br>
 No lo agregamos para este sprint, pero lo planeamos incorporar en el siguiente.
-
 
 #### Moovit:
 
 <p>Vemos que la app de moovit proporciona muchas de las funcionalidades que nuestra aplicación quiere brindar, pero también tienen algunas que consideramos útiles para agregar:</p>
 <br>
 &nbsp;1: Guardado de destinos para obtener direcciones rápidas (Ej: casa, trabajo, facultad)
-
 
 &nbsp;2: Si se elige un destino al que ninguna linea cercana llegue, se proporciona una combinación de lineas de transporte diferentes
 <br>
@@ -106,10 +128,9 @@ No lo agregamos para este sprint, pero lo planeamos incorporar en el siguiente.
 &nbsp;2: Cuando el usuario selecciona una ruta a seguir en automovil, se le avisa qué porciones se encuentran congestionadas por tráfico (si es que las hay). La ruta puede aparecer en amarillo/naranja (congestionada), y rojo (muy congestionada).
 <br>
 
-
 #### Funcionalidad innovadora
 
-Como funcionalidad innovadora, decidimos agregar la posiblidad de comprar el boleto de manera online, permitiendo presentarle un código QR al chofer. 
+Como funcionalidad innovadora, decidimos agregar la posiblidad de comprar el boleto de manera online, permitiendo presentarle un código QR al chofer.
 Esta idea se nos ocurrió al analizar qué cosas nos gustaría a nosotros, como usuarios, que una aplicación de transporte tenga. Dado que se ha normalizado mucho el uso de tarjetas de crédito en nuestro día a día, muchas veces nos encontramos en situaciones en las que no contamos con efectivo ni boletera, y la posibilidad de comprar el boleto virtualmente suena muy conveniente.
 
 No lo agregamos para este sprint, pero lo planeamos incorporar en el siguiente.
@@ -123,7 +144,7 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
 
 ### Template para user stories:
 
-Las identificamos de la siguiente manera: “US” + número identificador + "-E" + número de épica correspondiente 
+Las identificamos de la siguiente manera: “US” + número identificador + "-E" + número de épica correspondiente
 
 Siguen el siguiente template:
 
@@ -132,7 +153,6 @@ Siguen el siguiente template:
     QUIERO <ACCIÓN>
 
     PARA <MOTIVO DE NEGOCIO>
-
 
 # Épica 1: Gestión de Usuarios
 
@@ -198,11 +218,10 @@ Siguen el siguiente template:
 
     QUIERO poder filtrar líneas por nombre, usuario y horario
 
-    PARA poder acceder y manejar las líneas con cierto atributo 
-	en su nombre
+    PARA poder acceder y manejar las líneas con cierto atributo
+    en su nombre
 
 ## Feature: Listado de líneas cercanas con información relevante
-
 
 ### US2-E2:
 
@@ -211,16 +230,14 @@ Siguen el siguiente template:
     QUIERO que se muestre información de origen/destino de lineas cercanas
 
     PARA poder elegir la linea adecuada para mi destino de las lineas cerca mio
-    
 
- ### US3-E2:
+### US3-E2:
 
     COMO  usuario
 
-    QUIERO que se me muestre información sobre la cantidad de pasajeros de una línea cercana 
+    QUIERO que se me muestre información sobre la cantidad de pasajeros de una línea cercana
 
     PARA poder tomar en cuenta el espacio disponible en el ómnibus en función de la cantidad de espacio disponible que tiene
-
 
 ## Feature: Historial de busqueda y de viajes
 
@@ -231,7 +248,6 @@ Siguen el siguiente template:
     QUIERO poder poder ver mis búsquedas anteriores
 
     PARA ayudarme a recordarlas además de no tener que escribirlas de vuelta
-    
 
 ### US5-E2:
 
@@ -240,7 +256,6 @@ Siguen el siguiente template:
     QUIERO poder guardar un destino
 
     PARA poder obtener direcciones rápidas
-
 
 # Épica: Modo viaje.
 
@@ -254,7 +269,6 @@ Siguen el siguiente template:
 
     PARA poder estimar el tiempo de trayecto faltante
 
-
 ### US2-E3:
 
     COMO  usuario
@@ -262,7 +276,6 @@ Siguen el siguiente template:
     QUIERO ver cuantas paradas faltan para llegar a mi destino
 
     PARA saber cuando me tengo que bajar del ómnibus
-
 
 ### US3-E3:
 
@@ -278,7 +291,7 @@ Siguen el siguiente template:
 
     QUIERO conocer el estado de congestión de la ruta en cada punto del trayecto
 
-    PARA tener una imagen clara del tráfico que me espera durante el trayecto 
+    PARA tener una imagen clara del tráfico que me espera durante el trayecto
 
 ### US5-E3:
 
@@ -287,7 +300,6 @@ Siguen el siguiente template:
     QUIERO poder ver diferentes combinaciones de líneas posibles para llegar a destino
 
     PARA poder elegir el viaje que más se acople a mis necesidades
-
 
 ## Feature: Compartir viaje a otro usuario
 
@@ -357,7 +369,6 @@ Siguen el siguiente template:
 
     PARA poder elegir el viaje que más se acople a mis necesidades
 
-
 ### US6-E4:
 
     COMO  usuario
@@ -365,8 +376,6 @@ Siguen el siguiente template:
     QUIERO que se me notifique cuando el ómnibus en el que me encuentro esta por llegar a destino
 
     PARA saber cuando me tengo que bajar
-
-
 
 ### Definition of Ready
 
