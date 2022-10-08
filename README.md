@@ -68,9 +68,8 @@ Hicimos una investigación acerca de las aplicaciones móviles existentes para e
 #### Cómo ir IMM
 
 <p>Esta aplicación cuenta con una funcionalidad muy interesante que puede ser de gran valor para los usuarios acostumbrados a la tecnología: </p>
-<br>
+
 &nbsp;1: posibilidad de asociar la tarjeta STM de manera virtual. 
-<br>
 <br>
 
 #### Moovit:
@@ -126,7 +125,7 @@ Siguen el siguiente template:
 
 ## Feature: Sesión
 
-### US1:
+### US1-E1:
 
     COMO  usuario
 
@@ -134,7 +133,7 @@ Siguen el siguiente template:
 
     PARA identificarme y obtener información relevante a mis viajes
 
-### US2:
+### US2-E1:
 
     COMO  usuario
 
@@ -144,7 +143,7 @@ Siguen el siguiente template:
 
 ## Feature: CRUD Usuarios
 
-### US3:
+### US3-E1:
 
     COMO  usuario
 
@@ -152,7 +151,7 @@ Siguen el siguiente template:
 
     PARA poder disfrutar de una experiencia personalizada
 
-### US4:
+### US4-E1:
 
     COMO  usuario
 
@@ -160,7 +159,7 @@ Siguen el siguiente template:
 
     PARA poder corregir o actualizar datos asociados a mi persona
 
-### US5:
+### US5-E1:
 
     COMO  usuario
 
@@ -168,7 +167,7 @@ Siguen el siguiente template:
 
     PARA no quedarme registrado en contra de mi voluntad
 
-### US6:
+### US6-E1:
 
     COMO  usuario
 
@@ -176,11 +175,11 @@ Siguen el siguiente template:
 
     PARA no perder la cuenta si se me olvida la contraseña
 
-# Epica: Búsqueda y listado
+# Épica: Búsqueda y listado
 
 ## Feature: Búsqueda de línea con filtros
 
-### US6:
+### US1-E2:
 
     COMO  usuario
 
@@ -192,7 +191,7 @@ Siguen el siguiente template:
 ## Feature: Listado de líneas cercanas con información relevante
 
 
-### US6:
+### US2-E2:
 
     COMO  usuario
 
@@ -201,7 +200,7 @@ Siguen el siguiente template:
     PARA poder elegir la linea adecuada para mi destino de las lineas cerca mio
     
 
- ### US6:
+ ### US3-E2:
 
     COMO  usuario
 
@@ -212,7 +211,7 @@ Siguen el siguiente template:
 
 ## Feature: Historial de busqueda y de viajes
 
-### US6:
+### US4-E2:
 
     COMO  usuario
 
@@ -221,7 +220,7 @@ Siguen el siguiente template:
     PARA ayudarme a recordarlas además de no tener que escribirlas de vuelta
     
 
-### US6:
+### US5-E2:
 
     COMO  usuario
 
@@ -234,7 +233,7 @@ Siguen el siguiente template:
 
 ## Feature: Modo viaje
 
-### US6:
+### US1-E3:
 
     COMO  usuario
 
@@ -243,7 +242,7 @@ Siguen el siguiente template:
     PARA poder estimar el tiempo de trayecto faltante
 
 
-### US6:
+### US2-E3:
 
     COMO  usuario
 
@@ -252,7 +251,7 @@ Siguen el siguiente template:
     PARA saber cuando me tengo que bajar del ómnibus
 
 
-### US6:
+### US3-E3:
 
     COMO  usuario
 
@@ -260,7 +259,7 @@ Siguen el siguiente template:
 
     PARA evitar confusiones
 
-### US6:
+### US4-E3:
 
     COMO  usuario
 
@@ -268,7 +267,7 @@ Siguen el siguiente template:
 
     PARA tener una imagen clara del tráfico que me espera durante el trayecto 
 
-### US6:
+### US5-E3:
 
     COMO  usuario
 
@@ -282,7 +281,7 @@ Siguen el siguiente template:
 
 ## Feature: Compartir viaje a otro usuario
 
-### US6:
+### US6--E3:
 
     COMO  usuario
 
@@ -290,7 +289,7 @@ Siguen el siguiente template:
 
     PARA compartirles el viaje
 
-### US6:
+### US7-E3:
 
     COMO  usuario
 
@@ -298,7 +297,7 @@ Siguen el siguiente template:
 
     PARA informar a otro usuario de mi viaje por esta plataforma
 
-### US6:
+### US8-E3:
 
     COMO  usuario
 
@@ -308,7 +307,7 @@ Siguen el siguiente template:
 
 # Épica: Sistema de notificaciones
 
-### US6:
+### US1-E4:
 
     COMO  usuario
 
@@ -316,7 +315,7 @@ Siguen el siguiente template:
 
     PARA no perder el ómnibus
 
-### US6:
+### US2-E4:
 
     COMO  usuario
 
@@ -324,7 +323,7 @@ Siguen el siguiente template:
 
     PARA que la aplicación me brinde información útil en función de mi posición
 
-### US6:
+### US3-E4:
 
     COMO  usuario
 
@@ -332,7 +331,7 @@ Siguen el siguiente template:
 
     PARA poder reevaluar y seleccionar la linea óptima para llegar a destino
 
-### US6:
+### US4-E4:
 
     COMO  usuario
 
@@ -340,7 +339,7 @@ Siguen el siguiente template:
 
     PARA poder reevaluar y seleccionar la linea óptima para llegar a destino
 
-### US6:
+### US5-E4:
 
     COMO  usuario
 
@@ -349,7 +348,7 @@ Siguen el siguiente template:
     PARA poder elegir el viaje que más se acople a mis necesidades
 
 
-### US6:
+### US6-E4:
 
     COMO  usuario
 
