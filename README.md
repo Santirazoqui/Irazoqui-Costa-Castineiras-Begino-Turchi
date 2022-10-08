@@ -111,15 +111,16 @@ Dividimos los distintos requisitos y funcionalidades en Epicas, Features y User 
 
 ### Template para user stories:
 
-Las identificamos por la abreviación “US” seguida de un número identificador
+Las identificamos de la siguiente manera: “US” + número identificador + "-E" + número de épica correspondiente 
 
 Siguen el siguiente template:
 
     CÓMO <ROL>
 
-    QUIERO <ACCION>
+    QUIERO <ACCIÓN>
 
     PARA <MOTIVO DE NEGOCIO>
+
 
 # Épica 1: Gestión de Usuarios
 
@@ -175,43 +176,188 @@ Siguen el siguiente template:
 
     PARA no perder la cuenta si se me olvida la contraseña
 
-# Epica: Busqueda y listado
+# Epica: Búsqueda y listado
 
-- Feature: Busqueda de linea con filtros
+## Feature: Búsqueda de línea con filtros
 
-  - US: Buscar linea utilizando filtros.
+### US6:
 
-- Feature: Listado de lineas cercanas con informacion relevante.
+    COMO  usuario
 
-  - US: Ver información de destino/origen
-  - US: Ver información de cantidad de pasajeros
+    QUIERO poder filtrar líneas por nombre, usuario y horario
 
-- Feature: Historial de busqueda y de viajes
+    PARA poder acceder y manejar las líneas con cierto atributo 
+	en su nombre
 
-  - US: Ver historial de busqueda
-  - US: Guardar un destino para obtener direcciones rápidas
+## Feature: Listado de líneas cercanas con información relevante
 
-- Epica: Modo viaje.
 
-  - Feature: Modo viaje
+### US6:
 
-    - US: Hacer seguimiento de trayecto de la linea
-    - US: Ver siguientes paradas hasta el destino
-    - US: Ver informacón extra ==> puede ser hora de llegada a parada, hora de llegada a destino, etc.
-    - US: Ver fotos o street view de parada de origen y destino
-    - US: Ver estado de congestión de la ruta
-    - US: Ver combinaciones de lineas posibles para llegar a destino
+    COMO  usuario
 
-  - Feature: Compartir viaje a otro usuario
+    QUIERO que se muestre información de origen/destino de lineas cercanas
 
-    - US: Compartir viaje a otro usuario (wpp, live location?)
+    PARA poder elegir la linea adecuada para mi destino de las lineas cerca mio
+    
 
-- Epica: Sistema de notificaciones
-  - US: Notificar omnibus por llegar a la parada
-  - US: Notificar que la proxima parada es tu destino
-  - US: Notificar el tiempo de llegada a parada habitual.
-  - US: Notificar si la linea seleccionada esta retrasada
-  - US: Notificar si la linea seleccionada esta desviada.
+ ### US6:
+
+    COMO  usuario
+
+    QUIERO que se me muestre información sobre la cantidad de pasajeros de una línea cercana 
+
+    PARA poder tomar en cuenta el espacio disponible en el ómnibus en función de la cantidad de espacio disponible que tiene
+
+
+## Feature: Historial de busqueda y de viajes
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO poder poder ver mis búsquedas anteriores
+
+    PARA ayudarme a recordarlas además de no tener que escribirlas de vuelta
+    
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO poder guardar un destino
+
+    PARA poder obtener direcciones rápidas
+
+
+# Épica: Modo viaje.
+
+## Feature: Modo viaje
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO saber en que punto del trayecto me encuentro
+
+    PARA poder estimar el tiempo de trayecto faltante
+
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO ver cuantas paradas faltan para llegar a mi destino
+
+    PARA saber cuando me tengo que bajar del ómnibus
+
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO poder ver una foto de la paradas
+
+    PARA evitar confusiones
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO conocer el estado de congestión de la ruta en cada punto del trayecto
+
+    PARA tener una imagen clara del tráfico que me espera durante el trayecto 
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO poder ver diferentes combinaciones de líneas posibles para llegar a destino
+
+    PARA poder elegir el viaje que más se acople a mis necesidades
+
+
+# !!!! US: Ver informacón extra ==> puede ser hora de llegada a parada, hora de llegada a destino, etc.
+
+
+## Feature: Compartir viaje a otro usuario
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO compartir el destino, mi localización actual y mi recorrido a otro usuario
+
+    PARA compartirles el viaje
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO poder compartir mi viaje por whatsapp
+
+    PARA informar a otro usuario de mi viaje por esta plataforma
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO poder ver diferentes combinaciones de líneas posibles para llegar a destino
+
+    PARA poder elegir el viaje que más se acople a mis necesidades
+
+# Épica: Sistema de notificaciones
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO que se me notifique cuando el ómnibus que estoy esperando llegue a la parada
+
+    PARA no perder el ómnibus
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO que, en función de mi distancia a mi parada habitual, se me notifique cuando una linea que frecuento llega a dicha parada
+
+    PARA que la aplicación me brinde información útil en función de mi posición
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO que se me notifique sobre cualquier retraso que haya con una linea que haya seleccionado
+
+    PARA poder reevaluar y seleccionar la linea óptima para llegar a destino
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO que se me notifique cuando una linea seleccionada tiene un desvío
+
+    PARA poder reevaluar y seleccionar la linea óptima para llegar a destino
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO poder ver diferentes combinaciones de líneas posibles para llegar a destino
+
+    PARA poder elegir el viaje que más se acople a mis necesidades
+
+
+### US6:
+
+    COMO  usuario
+
+    QUIERO que se me notifique cuando el ómnibus en el que me encuentro esta por llegar a destino
+
+    PARA saber cuando me tengo que bajar
+
+
 
 ### Definition of Ready
 
