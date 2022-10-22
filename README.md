@@ -437,6 +437,11 @@ En esta iteración, tomamos las categorías que se observan a continuación como
 
 ## Link a la presentacion del Tablero Completo de Azure
 
+### Aclaración
+Al principio al no conocer bien la herramienta de azure comenzamos manejando el tablero de taskboard para las US que tomamos. Para eso creamos las columnas necesarias, y tuvimos que asignar una task a las US. Luego de hablar con el profesor en una clase de consulta, nos dimos cuenta que lo que teníamos que usar era el board con las US del Sprint, y no el taskboard.
+<br>
+A partir de ese momento comenzamos a usar el board con las US como deberíamos. Las tasks que ya habíamos creado las dejamos como estaban. Por eso en las primeras fotos se ve que hacemos los cambios en el taskboard, y luego pasamos al board.
+
 [Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Tablero%20Completo%20de%20Azure.pptx)
 
 ## Link a Sprint Review Meeting
