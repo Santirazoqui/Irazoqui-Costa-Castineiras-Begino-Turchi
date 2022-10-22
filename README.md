@@ -416,3 +416,38 @@ En esta iteración, tomamos las categorías que se observan a continuación como
 | 1           | Mateo Costa         | 3                      | 3                      | 3                                                    | 9           |
 | 1           | Santiago Irazoqui   | 5                      | 2                      | 2                                                    | 9           |
 | 1           | Juan Turchi         | 1                      | 5                      | 3                                                    | 9           |
+
+# Iteración 2
+
+## Link a la Sprint Planning
+
+[Documento de la Sprint planning meeting](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20Planning%20Meeting.pdf)
+
+## Link a la Definition of Done
+
+[Documento de la Definition of Done](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Definition%20of%20Done%20-%20Iteraci%C3%B3n%202.pdf)
+
+## Link a las User Stories del Backlog
+
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20Backlog%20User%20Stories.pptx)
+
+## Link al prototipo
+
+[Prototipo](https://framer.com/projects/Prototipo-ISA1--xtWBj7FxMRjJlN7yDLF4-4mkHt?node=augiA20Il)
+
+## Link a la presentacion del Tablero Completo de Azure
+
+### Aclaración
+Al principio al no conocer bien la herramienta de azure comenzamos manejando el tablero de taskboard para las US que tomamos. Para eso creamos las columnas necesarias, y tuvimos que asignar una task a las US. Luego de hablar con el profesor en una clase de consulta, nos dimos cuenta que lo que teníamos que usar era el board con las US del Sprint, y no el taskboard.
+<br>
+A partir de ese momento comenzamos a usar el board con las US como deberíamos. Las tasks que ya habíamos creado las dejamos como estaban. Por eso en las primeras fotos se ve que hacemos los cambios en el taskboard, y luego pasamos al board.
+
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Tablero%20Completo%20de%20Azure.pptx)
+
+## Link a Sprint Review Meeting
+
+[Documento del Sprint Review](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20review.pdf)
+
+## Link a Sprint Retro Meeting
+
+[Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20retrospective.pdf)
