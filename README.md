@@ -419,6 +419,30 @@ En esta iteración, tomamos las categorías que se observan a continuación como
 
 # Iteración 2
 
-## Link a la sprint planning
+## Link a la Sprint Planning
 
-[Contribution guidelines for this project](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/UserStory%20del%20Sprint%20Backlog.pdf)
+[Documento de la Sprint planning meeting](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/UserStory%20del%20Sprint%20Backlog.pdf)
+
+## Link a la Definition of Done
+
+[Documento de la Definition of Done](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/UserStory%20del%20Sprint%20Backlog.pdf)
+
+## Link a las User Stories del Backlog
+
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/UserStory%20del%20Sprint%20Backlog.pdf)
+
+## Link al prototipo
+
+[Prototipo](https://framer.com/projects/Prototipo-ISA1--xtWBj7FxMRjJlN7yDLF4-4mkHt?node=augiA20Il)
+
+## Link a la presentacion del Tablero Completo de Azure
+
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Tablero%20Completo%20de%20Azure.pptx)
+
+## Link a Sprint Review Meeting
+
+[Documento del Sprint Review](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/UserStory%20del%20Sprint%20Backlog.pdf)
+
+## Link a Sprint Retro Meeting
+
+[Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/UserStory%20del%20Sprint%20Backlog.pdf)
