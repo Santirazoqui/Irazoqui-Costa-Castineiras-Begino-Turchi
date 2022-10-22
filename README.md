@@ -416,3 +416,9 @@ En esta iteración, tomamos las categorías que se observan a continuación como
 | 1           | Mateo Costa         | 3                      | 3                      | 3                                                    | 9           |
 | 1           | Santiago Irazoqui   | 5                      | 2                      | 2                                                    | 9           |
 | 1           | Juan Turchi         | 1                      | 5                      | 3                                                    | 9           |
+
+# Iteración 2
+
+## Link a la sprint planning
+
+[Contribution guidelines for this project](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/UserStory%20del%20Sprint%20Backlog.pdf)
