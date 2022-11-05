@@ -417,7 +417,3 @@ En esta iteración, tomamos las categorías que se observan a continuación como
 | 1           | Santiago Irazoqui   | 5                      | 2                      | 2                                                    | 9           |
 | 1           | Juan Turchi         | 1                      | 5                      | 3                                                    | 9           |
 
-## Validacion de terceros
-
-Les mostramos el prototipo a familiares para obtener feedback. En lineas generales 
-les gusto el diseño de la aplicación, aunque se le critico la inconcistencia que tiene con ciertos elementos de la misma, ya sea las fuentes como el uso de ciertos colores, aunque consideramos que se mejoró en estos aspectos desde la versión anterior de la aplicación. 

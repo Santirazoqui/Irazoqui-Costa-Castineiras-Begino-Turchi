@@ -410,6 +410,7 @@ En esta iteración, tomamos las categorías que se observan a continuación como
 | 1           | Santiago Irazoqui   | 5                      | 2                      | 2                                                    | 9           |
 | 1           | Juan Turchi         | 1                      | 5                      | 3                                                    | 9           |
 
+
 # Iteración 2
 
 ## Link a la Sprint Planning
@@ -478,3 +479,12 @@ A partir de ese momento comenzamos a usar el board con las US como deberíamos. 
 ## Link a Sprint Retro Meeting
 
 [Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20retrospective.pdf)
+
+## Validacion de terceros
+
+Les mostramos el prototipo a familiares para obtener feedback. En lineas generales 
+les gusto el diseño de la aplicación, aunque se le critico la inconcistencia que tiene con ciertos elementos de la misma, ya sea las fuentes como el uso de ciertos colores, aunque consideramos que se mejoró en estos aspectos desde la versión anterior de la aplicación. 
+
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Imagenes/validacionTerceros1.jpeg" width=100% height=auto />
+
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Imagenes/validacionTerceros2.jpeg" width=100% height=auto />
