@@ -491,3 +491,9 @@ les gusto el diseño de la aplicación, aunque se le critico la inconcistencia q
 <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Imagenes/validacionTerceros2.jpeg" width=100% height=auto />
 
 <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Imagenes/validacionTerceros1.jpeg" width=100% height=auto />
+
+#### Algunos comentarios que anotamos:
+"Los botones de ir para atrás a veces no andan"
+"Algunos textos son muy grandes"
+"La interfaz es intuitiva"
+"Me gustan los colores"
