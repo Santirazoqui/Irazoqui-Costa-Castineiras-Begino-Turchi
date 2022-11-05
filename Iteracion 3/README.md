@@ -494,6 +494,9 @@ les gusto el diseño de la aplicación, aunque se le critico la inconcistencia q
 
 #### Algunos comentarios que anotamos:
 "Los botones de ir para atrás a veces no andan"
+<br>
 "Algunos textos son muy grandes"
+<br>
 "La interfaz es intuitiva"
+<br>
 "Me gustan los colores"
