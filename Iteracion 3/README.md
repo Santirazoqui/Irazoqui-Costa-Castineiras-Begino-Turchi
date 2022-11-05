@@ -480,6 +480,9 @@ A partir de ese momento comenzamos a usar el board con las US como deberíamos. 
 
 [Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20retrospective.pdf)
 
+## Burndown chart
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Imagenes/BurndownChart.jpg"/>
+
 ## Validacion de terceros
 
 Les mostramos el prototipo a familiares para obtener feedback. En lineas generales 
