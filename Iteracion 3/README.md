@@ -485,6 +485,6 @@ A partir de ese momento comenzamos a usar el board con las US como deberíamos. 
 Les mostramos el prototipo a familiares para obtener feedback. En lineas generales 
 les gusto el diseño de la aplicación, aunque se le critico la inconcistencia que tiene con ciertos elementos de la misma, ya sea las fuentes como el uso de ciertos colores, aunque consideramos que se mejoró en estos aspectos desde la versión anterior de la aplicación. 
 
-<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Imagenes/validacionTerceros1.jpeg" width=100% height=auto />
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Imagenes/validacionTerceros2.jpeg" width=100% height=auto />
 
-<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Imagenes/validacionTerceros2.jpeg" width=100% height=auto />
+<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Imagenes/validacionTerceros1.jpeg" width=100% height=auto />
