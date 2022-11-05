@@ -30,13 +30,6 @@ Para concluir la planning meeting, se determinaron los objetivos para esta prime
 Foto del equipo en la sprint planning hecha en teams:<br>
 <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Planning.png" width=100% height=auto />
 
-#### Aclaración sobre el tablero
-
-Nosotros al principio consideramos que el tablero iba a tener SOLO las US, o tarjetas asociadas al producto. En esta primera iteración, las cosas que hicimos no son del producto directamente (creamos el product backlog, análisis de interesados y competidores, etc.), sino que es más una preparación del mismo. Por lo tanto, decidimos no agregar como tasks las tareas que nos dividimos en la Sprint Planning Meeting. Luego de hablar con los profesores en la clase de consulta y en la clase, decidimos que el tablero debe incluirlas, ya que son tareas que como desarrolladores llevamos a cabo y son relevantes para el proyecto. Para los próximos sprints, vamos a añadir este tipo de tarjetas desde el principio o cuando surjan.
-
-Tasks creadas: <br>
-<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/TableroConTasks.jpg" width=100% height=auto />
-
 ### Daily
 
 El objetivo de la daily fue ver el progreso del equipo al final de la semana. Intentamos seguir el evento como se hace normalmente en Scrum. Es decir, fue una reunión corta de unos 15 minutos en la que cada uno habló de lo que pudo hacer, qué haría a futuro, y qué trabas o dudas tenía para que el equipo lo ayudara.
