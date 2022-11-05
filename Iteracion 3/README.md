@@ -444,3 +444,37 @@ A partir de ese momento comenzamos a usar el board con las US como deberíamos. 
 ## Link a Sprint Retro Meeting
 
 [Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20retrospective.pdf)
+
+
+
+# Iteración 3 - Los links no estan bien hay que cambiarlos
+
+## Link a la Sprint Planning
+
+[Documento de la Sprint planning meeting](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20Planning%20Meeting.pdf)
+
+## Link a la Definition of Done
+
+[Documento de la Definition of Done](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Definition%20of%20Done%20-%20Iteraci%C3%B3n%202.pdf)
+
+## Link a las User Stories del Backlog
+
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20Backlog%20User%20Stories.pptx)
+
+## Link al prototipo
+
+[Prototipo](https://framer.com/projects/Prototipo-ISA1--xtWBj7FxMRjJlN7yDLF4-4mkHt?node=augiA20Il)
+
+[Slides con imagenes del prototipo]
+
+## Link a la presentacion del Tablero Completo de Azure
+
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Tablero%20Completo%20de%20Azure.pptx)
+
+## Link a Sprint Review Meeting
+
+[Documento del Sprint Review](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20review.pdf)
+
+## Link a Sprint Retro Meeting
+
+[Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20retrospective.pdf)
