@@ -452,33 +452,33 @@ A partir de ese momento comenzamos a usar el board con las US como deberíamos. 
 
 ## Link a la Sprint Planning
 
-[Documento de la Sprint planning meeting](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20Planning%20Meeting.pdf)
+[Documento de la Sprint planning meeting](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Sprint%20Planning%20Meeting%203.pdf)
 
 ## Link a la Definition of Done
 
-[Documento de la Definition of Done](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Definition%20of%20Done%20-%20Iteraci%C3%B3n%202.pdf)
+[Documento de la Definition of Done](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Definition%20of%20Done%20-%20Iteraci%C3%B3n%203.pdf)
 
 ## Link a las User Stories del Backlog
 
-[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20Backlog%20User%20Stories.pptx)
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Sprint%203%20Backlog%20User%20Stories.pdf)
 
 ## Link al prototipo
 
 [Prototipo](https://framer.com/projects/Prototipo-ISA1--xtWBj7FxMRjJlN7yDLF4-4mkHt?node=augiA20Il)
 
-[Slides con imagenes del prototipo]
+[Slides con imagenes del prototipo](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Prototipo.pdf)
 
 ## Link a la presentacion del Tablero Completo de Azure
 
-[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Tablero%20Completo%20de%20Azure.pptx)
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Movimientos%20tablero%20Azure.pdf)
 
 ## Link a Sprint Review Meeting
 
-[Documento del Sprint Review](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20review.pdf)
+[Documento del Sprint Review](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Sprint%203%20Review%20Meeting.pdf)
 
 ## Link a Sprint Retro Meeting
 
-[Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20retrospective.pdf)
+[Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Sprint%203%20Sprint%20Retrospective.pdf)
 
 ## Burndown chart
 <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion3/Iteracion%203/Imagenes/BurndownChart.jpg"/>
