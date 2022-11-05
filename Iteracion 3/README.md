@@ -30,13 +30,6 @@ Para concluir la planning meeting, se determinaron los objetivos para esta prime
 Foto del equipo en la sprint planning hecha en teams:<br>
 <img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/Planning.png" width=100% height=auto />
 
-#### Aclaración sobre el tablero
-
-Nosotros al principio consideramos que el tablero iba a tener SOLO las US, o tarjetas asociadas al producto. En esta primera iteración, las cosas que hicimos no son del producto directamente (creamos el product backlog, análisis de interesados y competidores, etc.), sino que es más una preparación del mismo. Por lo tanto, decidimos no agregar como tasks las tareas que nos dividimos en la Sprint Planning Meeting. Luego de hablar con los profesores en la clase de consulta y en la clase, decidimos que el tablero debe incluirlas, ya que son tareas que como desarrolladores llevamos a cabo y son relevantes para el proyecto. Para los próximos sprints, vamos a añadir este tipo de tarjetas desde el principio o cuando surjan.
-
-Tasks creadas: <br>
-<img src="https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion1/Imagenes/TableroConTasks.jpg" width=100% height=auto />
-
 ### Daily
 
 El objetivo de la daily fue ver el progreso del equipo al final de la semana. Intentamos seguir el evento como se hace normalmente en Scrum. Es decir, fue una reunión corta de unos 15 minutos en la que cada uno habló de lo que pudo hacer, qué haría a futuro, y qué trabas o dudas tenía para que el equipo lo ayudara.
@@ -441,6 +434,40 @@ En esta iteración, tomamos las categorías que se observan a continuación como
 Al principio al no conocer bien la herramienta de azure comenzamos manejando el tablero de taskboard para las US que tomamos. Para eso creamos las columnas necesarias, y tuvimos que asignar una task a las US. Luego de hablar con el profesor en una clase de consulta, nos dimos cuenta que lo que teníamos que usar era el board con las US del Sprint, y no el taskboard.
 <br>
 A partir de ese momento comenzamos a usar el board con las US como deberíamos. Las tasks que ya habíamos creado las dejamos como estaban. Por eso en las primeras fotos se ve que hacemos los cambios en el taskboard, y luego pasamos al board.
+
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Tablero%20Completo%20de%20Azure.pptx)
+
+## Link a Sprint Review Meeting
+
+[Documento del Sprint Review](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20review.pdf)
+
+## Link a Sprint Retro Meeting
+
+[Documento del Sprint Retrospective](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20retrospective.pdf)
+
+
+
+# Iteración 3 - Los links no estan bien hay que cambiarlos
+
+## Link a la Sprint Planning
+
+[Documento de la Sprint planning meeting](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20Planning%20Meeting.pdf)
+
+## Link a la Definition of Done
+
+[Documento de la Definition of Done](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Definition%20of%20Done%20-%20Iteraci%C3%B3n%202.pdf)
+
+## Link a las User Stories del Backlog
+
+[Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Sprint%20Backlog%20User%20Stories.pptx)
+
+## Link al prototipo
+
+[Prototipo](https://framer.com/projects/Prototipo-ISA1--xtWBj7FxMRjJlN7yDLF4-4mkHt?node=augiA20Il)
+
+[Slides con imagenes del prototipo]
+
+## Link a la presentacion del Tablero Completo de Azure
 
 [Documento del Sprint Backlog Stories](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion2/Tablero%20Completo%20de%20Azure.pptx)
 
