@@ -500,3 +500,11 @@ les gusto el diseño de la aplicación, aunque se le critico la inconcistencia q
 "La interfaz es intuitiva"
 <br>
 "Me gustan los colores"
+
+# Iteración 4
+## Link al informe académico
+[Informe académico](https://github.com/Santirazoqui/Irazoqui-Costa-Castineiras-Begino-Turchi/blob/Iteracion4/Iteracion%204/Informe%20Acad%C3%A9mico.pdf)
+
+## Link al video de la demo final
+[Video demostración del producto final](https://fi365-my.sharepoint.com/:v:/g/personal/si234730_fi365_ort_edu_uy/EYMwd8c578JPqRkdqAOhB2YBRer8cVPIFnNU3KY05qQwBg?e=vxPfgS)
+
