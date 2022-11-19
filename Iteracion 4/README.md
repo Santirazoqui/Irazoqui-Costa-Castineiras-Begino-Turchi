@@ -448,7 +448,7 @@ A partir de ese momento comenzamos a usar el board con las US como deberíamos. 
 
 
 
-# Iteración 3 - Los links no estan bien hay que cambiarlos
+# Iteración 3
 
 ## Link a la Sprint Planning
 
